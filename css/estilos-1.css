@@ -1,0 +1,28 @@
+body { background-color: #cd1e5d;
+
+}
+.compPrincipal {
+    background-color: #bc105c;
+    margin-left: 45px;
+    margin-right: 45px;
+}
+h1 {
+    background-color: #bc105c;
+    color: white;
+    text-align: center;
+}
+
+img {
+    background-color: white;
+    margin: 20px;
+    height: 650px;
+    width: 850px;
+}
+.image1 {
+    text-align: center;
+}
+h4 {
+    color: white;
+    background-color: #e96093;
+    text-align: center;
+}
